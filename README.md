@@ -24,8 +24,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/flipmenwqx/flipmenwqx/output/snake.svg" alt="Snake animation" />
+<h4 align="left">My gmail : flipmen.shukran@gmail.com<br>My discord : flipmen_</h4>
 
 ###
