@@ -24,6 +24,6 @@
 
 ###
 
-<h4 align="left">My gmail : flipmen.shukran@gmail.com<br>My discord : flipmen_</h4>
+<h4 align="left"><br>My discord : flipmen_</h4>
 
 ###
